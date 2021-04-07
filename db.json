@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor appointment",
+      "day": "Wed Apr 14 2021 12:00:00 pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Cast Vote",
+      "day": "Tue Apr 06 2021 12:00:00 pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Push to Github",
+      "day": "Thu Apr 08 2021 8:00:00 AM",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Complete the task manager app",
+      "day": "Thu Apr 08 2021 12:00:00 AM",
+      "reminder": false
+    }
+  ]
+}
