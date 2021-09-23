@@ -1,8 +1,7 @@
-# React Tasker - Task Manager
+# React Tasker - Task Manager [DEMO](https://jonesxavi.github.io/react-tasker/)
 
 This project is a simple Task Manager, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-App Demo in [Tasker](https://jonesxavi.github.io/react-tasker/).
 
 Note: I used [My Json Server](https://my-json-server.typicode.com/) to use fetch my own [JSON](https://my-json-server.typicode.com/jonesxavi/react-tasker), so the changes aren't persisted when you refresh.
 
